@@ -9,3 +9,4 @@ In mnist.py, time is in x-dirction, i.e., from left to right, which is different
 
 # structure, NLP
 ![image](https://github.com/Menglinucas/RNN_echo_MNIST/blob/master/RNN.PNG)
+![image](https://github.com/Menglinucas/RNN_echo_MNIST/blob/master/RNN.jpg)
